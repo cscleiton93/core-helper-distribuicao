@@ -1,0 +1,9 @@
+{
+  "schema": "core-helper-distribution-v1",
+  "version": "7.0.0",
+  "extensionId": "gimjkgfdmldmgiooeafmcbkdmejgaeoo",
+  "updateUrl": "https://cscleiton93.github.io/core-helper-distribuicao/update.xml",
+  "codebase": "https://cscleiton93.github.io/core-helper-distribuicao/core-helper-7.0.0.crx",
+  "crxFile": "core-helper-7.0.0.crx",
+  "crxSha256": "7502271355612d496863d4af68ac759a7f9068bcf63bc187880013f500f39bc2"
+}
